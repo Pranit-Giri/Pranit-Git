@@ -48,7 +48,7 @@ class SortingAlgo {
     }
 
     public static void main(String[] args) {
-        int N[] = { 13, 46, 24, 52, 20, 9 };
+        int N[] = { 13, 44, 24, 52, 20, 9 };
         // selectionsort(N);
         printarr(N);
         bubblesort(N);
